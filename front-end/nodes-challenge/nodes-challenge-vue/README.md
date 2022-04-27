@@ -23,7 +23,7 @@ Versions:
 - yarn: 1.22.5
 
 npm:
-git clone https://github.com/Postclick/coding-challenges.git && cd coding-challenges/front-end/nodes-challenge/nodes-challenge-react && npm install && npm run start
+git clone https://github.com/Postclick/coding-challenges.git && cd coding-challenges/front-end/nodes-challenge/nodes-challenge-vue && npm install && npm run serve
 
 yarn:
-git clone https://github.com/Postclick/coding-challenges.git && cd coding-challenges/front-end/nodes-challenge/nodes-challenge-react && yarn install && yarn run start
+git clone https://github.com/Postclick/coding-challenges.git && cd coding-challenges/front-end/nodes-challenge/nodes-challenge-vue && yarn install && yarn run serve
